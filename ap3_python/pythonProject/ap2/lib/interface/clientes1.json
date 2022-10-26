@@ -1,0 +1,6 @@
+{"nome": "Augusto", "contato": "98879-7789", "cpf": "155997799", "reg": "1", "compras": []}
+{"nome": "Juvenisclaudio", "contato": "996", "cpf": "12", "reg": "2", "compras": []}
+{"nome": "Fevereiro", "contato": "97777-7789", "cpf": "100009", "reg": "4", "compras": []}
+{"nome": "Claudio", "contato": "369-4496", "cpf": "12998", "reg": "5", "compras": []}
+{"modelo": "Arrumba", "ano": 1992, "valor": 2900000, "estoque": 15, "reg": "3"}
+{"registro": 1, "cliente": 1, "produto": 2, "valor": 2900000, "prestacoes": 15, "valor_parcelas": 212666.6666666667}
